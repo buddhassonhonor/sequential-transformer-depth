@@ -101,3 +101,7 @@ must comply with the terms of the original datasets.
 Versioned GitHub releases are synchronized to Figshare. Cite the version DOI
 shown on the corresponding Figshare record once the release has been archived.
 
+## License
+
+The repository is released under the MIT License. The original datasets remain
+subject to their respective source terms.

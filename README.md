@@ -1,5 +1,7 @@
 # Sequential Transformer Depth
 
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.34003950.v1-blue)](https://doi.org/10.6084/m9.figshare.34003950.v1)
+
 Code and source data for **How Much Transformer Depth Needs to Be Sequential?**
 
 This repository accompanies experiments that separate the number of Transformer
@@ -98,8 +100,8 @@ must comply with the terms of the original datasets.
 
 ## Archival release
 
-Versioned GitHub releases are synchronized to Figshare. Cite the version DOI
-shown on the corresponding Figshare record once the release has been archived.
+The archived v1.0.2 artifact is available from Figshare at
+<https://doi.org/10.6084/m9.figshare.34003950.v1>.
 
 ## License
 

@@ -1,0 +1,198 @@
+{
+  "SP24_S6K4": {
+    "stages": [
+      {
+        "stage": 1,
+        "mean_cosine": 0.5962,
+        "sd_cosine": 0.1607,
+        "min_cosine": 0.3932,
+        "max_cosine": 0.8405,
+        "median_cosine": 0.6048,
+        "mean_branch_norm": 3.7552,
+        "norm_cv": 0.0171,
+        "num_pairs": 6
+      },
+      {
+        "stage": 2,
+        "mean_cosine": 0.7003,
+        "sd_cosine": 0.1033,
+        "min_cosine": 0.5852,
+        "max_cosine": 0.8731,
+        "median_cosine": 0.6789,
+        "mean_branch_norm": 3.9708,
+        "norm_cv": 0.3382,
+        "num_pairs": 6
+      },
+      {
+        "stage": 3,
+        "mean_cosine": 0.4002,
+        "sd_cosine": 0.0441,
+        "min_cosine": 0.3181,
+        "max_cosine": 0.4648,
+        "median_cosine": 0.3961,
+        "mean_branch_norm": 3.9028,
+        "norm_cv": 0.0914,
+        "num_pairs": 6
+      },
+      {
+        "stage": 4,
+        "mean_cosine": 0.3724,
+        "sd_cosine": 0.0178,
+        "min_cosine": 0.3368,
+        "max_cosine": 0.3963,
+        "median_cosine": 0.376,
+        "mean_branch_norm": 4.2842,
+        "norm_cv": 0.0429,
+        "num_pairs": 6
+      },
+      {
+        "stage": 5,
+        "mean_cosine": 0.4147,
+        "sd_cosine": 0.0211,
+        "min_cosine": 0.3706,
+        "max_cosine": 0.4487,
+        "median_cosine": 0.4154,
+        "mean_branch_norm": 5.2512,
+        "norm_cv": 0.0903,
+        "num_pairs": 6
+      },
+      {
+        "stage": 6,
+        "mean_cosine": 0.6002,
+        "sd_cosine": 0.0181,
+        "min_cosine": 0.5612,
+        "max_cosine": 0.6391,
+        "median_cosine": 0.5997,
+        "mean_branch_norm": 4.9896,
+        "norm_cv": 0.0415,
+        "num_pairs": 6
+      }
+    ]
+  },
+  "SP24_S4K6": {
+    "stages": [
+      {
+        "stage": 1,
+        "mean_cosine": 0.3411,
+        "sd_cosine": 0.2957,
+        "min_cosine": 0.051,
+        "max_cosine": 0.8242,
+        "median_cosine": 0.1634,
+        "mean_branch_norm": 4.9461,
+        "norm_cv": 0.6678,
+        "num_pairs": 15
+      },
+      {
+        "stage": 2,
+        "mean_cosine": 0.4702,
+        "sd_cosine": 0.0539,
+        "min_cosine": 0.3426,
+        "max_cosine": 0.5536,
+        "median_cosine": 0.4585,
+        "mean_branch_norm": 3.5654,
+        "norm_cv": 0.2155,
+        "num_pairs": 15
+      },
+      {
+        "stage": 3,
+        "mean_cosine": 0.2974,
+        "sd_cosine": 0.0358,
+        "min_cosine": 0.2237,
+        "max_cosine": 0.3798,
+        "median_cosine": 0.2998,
+        "mean_branch_norm": 4.2835,
+        "norm_cv": 0.0254,
+        "num_pairs": 15
+      },
+      {
+        "stage": 4,
+        "mean_cosine": 0.5147,
+        "sd_cosine": 0.0296,
+        "min_cosine": 0.4504,
+        "max_cosine": 0.5914,
+        "median_cosine": 0.519,
+        "mean_branch_norm": 5.028,
+        "norm_cv": 0.0912,
+        "num_pairs": 15
+      }
+    ]
+  },
+  "SP24_S3K8": {
+    "stages": [
+      {
+        "stage": 1,
+        "mean_cosine": 0.3611,
+        "sd_cosine": 0.2767,
+        "min_cosine": 0.051,
+        "max_cosine": 0.852,
+        "median_cosine": 0.3043,
+        "mean_branch_norm": 4.3074,
+        "norm_cv": 0.6817,
+        "num_pairs": 28
+      },
+      {
+        "stage": 2,
+        "mean_cosine": 0.4162,
+        "sd_cosine": 0.061,
+        "min_cosine": 0.3138,
+        "max_cosine": 0.5292,
+        "median_cosine": 0.4179,
+        "mean_branch_norm": 3.9114,
+        "norm_cv": 0.1653,
+        "num_pairs": 28
+      },
+      {
+        "stage": 3,
+        "mean_cosine": 0.3911,
+        "sd_cosine": 0.0424,
+        "min_cosine": 0.2547,
+        "max_cosine": 0.4592,
+        "median_cosine": 0.3996,
+        "mean_branch_norm": 5.1949,
+        "norm_cv": 0.1159,
+        "num_pairs": 28
+      }
+    ]
+  },
+  "SP24_S2K12": {
+    "stages": [
+      {
+        "stage": 1,
+        "mean_cosine": 0.3176,
+        "sd_cosine": 0.2061,
+        "min_cosine": 0.0633,
+        "max_cosine": 0.8307,
+        "median_cosine": 0.3134,
+        "mean_branch_norm": 3.5955,
+        "norm_cv": 0.5476,
+        "num_pairs": 66
+      },
+      {
+        "stage": 2,
+        "mean_cosine": 0.3316,
+        "sd_cosine": 0.0662,
+        "min_cosine": 0.1598,
+        "max_cosine": 0.4871,
+        "median_cosine": 0.3334,
+        "mean_branch_norm": 4.7676,
+        "norm_cv": 0.1231,
+        "num_pairs": 66
+      }
+    ]
+  },
+  "SP24_S1K24": {
+    "stages": [
+      {
+        "stage": 1,
+        "mean_cosine": 0.1792,
+        "sd_cosine": 0.0613,
+        "min_cosine": 0.0533,
+        "max_cosine": 0.4856,
+        "median_cosine": 0.1698,
+        "mean_branch_norm": 3.1563,
+        "norm_cv": 0.2155,
+        "num_pairs": 276
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "model": "par24_3",
+  "num_stages": 8,
+  "stages": [
+    {
+      "stage": 1,
+      "cos_12": 0.6897,
+      "cos_13": 0.708,
+      "cos_23": 0.836,
+      "mean_pairwise_cosine": 0.7446,
+      "min_cosine": 0.6897,
+      "max_cosine": 0.836,
+      "norm_b1": 3.5974,
+      "norm_b2": 3.8645,
+      "norm_b3": 3.7774
+    },
+    {
+      "stage": 2,
+      "cos_12": 0.679,
+      "cos_13": 0.7368,
+      "cos_23": 0.7898,
+      "mean_pairwise_cosine": 0.7352,
+      "min_cosine": 0.679,
+      "max_cosine": 0.7898,
+      "norm_b1": 7.7053,
+      "norm_b2": 2.9309,
+      "norm_b3": 3.347
+    },
+    {
+      "stage": 3,
+      "cos_12": 0.4864,
+      "cos_13": 0.4466,
+      "cos_23": 0.4252,
+      "mean_pairwise_cosine": 0.4527,
+      "min_cosine": 0.4252,
+      "max_cosine": 0.4864,
+      "norm_b1": 3.4166,
+      "norm_b2": 3.5459,
+      "norm_b3": 3.2623
+    },
+    {
+      "stage": 4,
+      "cos_12": 0.3679,
+      "cos_13": 0.4314,
+      "cos_23": 0.3202,
+      "mean_pairwise_cosine": 0.3732,
+      "min_cosine": 0.3202,
+      "max_cosine": 0.4314,
+      "norm_b1": 3.6284,
+      "norm_b2": 3.7853,
+      "norm_b3": 3.5664
+    },
+    {
+      "stage": 5,
+      "cos_12": 0.3272,
+      "cos_13": 0.3463,
+      "cos_23": 0.3726,
+      "mean_pairwise_cosine": 0.3487,
+      "min_cosine": 0.3272,
+      "max_cosine": 0.3726,
+      "norm_b1": 3.9836,
+      "norm_b2": 3.5172,
+      "norm_b3": 3.7865
+    },
+    {
+      "stage": 6,
+      "cos_12": 0.2749,
+      "cos_13": 0.3471,
+      "cos_23": 0.328,
+      "mean_pairwise_cosine": 0.3167,
+      "min_cosine": 0.2749,
+      "max_cosine": 0.3471,
+      "norm_b1": 4.1113,
+      "norm_b2": 5.4233,
+      "norm_b3": 4.3478
+    },
+    {
+      "stage": 7,
+      "cos_12": 0.4699,
+      "cos_13": 0.517,
+      "cos_23": 0.507,
+      "mean_pairwise_cosine": 0.498,
+      "min_cosine": 0.4699,
+      "max_cosine": 0.517,
+      "norm_b1": 5.2441,
+      "norm_b2": 5.5024,
+      "norm_b3": 5.2463
+    },
+    {
+      "stage": 8,
+      "cos_12": 0.6662,
+      "cos_13": 0.641,
+      "cos_23": 0.6064,
+      "mean_pairwise_cosine": 0.6378,
+      "min_cosine": 0.6064,
+      "max_cosine": 0.6662,
+      "norm_b1": 5.1346,
+      "norm_b2": 4.9874,
+      "norm_b3": 4.8328
+    }
+  ]
+}

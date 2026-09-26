@@ -1,0 +1,5 @@
+model,seed,dataset,sequential_depth,non_emb_params,tokens_train,peak_vram_mb,avg_tok_s,max_gpu_temp_c,final_val_loss,final_val_ppl
+SEQ24,42,WikiText-103,24,61821696,50000000,8264.7,68161.2,80.0,4.3685,78.93
+PAR24_2,42,WikiText-103,12,61821696,50000000,8128.5,66380.9,80.0,4.3436,76.98
+PAR24_3,42,WikiText-103,8,61821696,50000000,8075.6,66526.0,80.0,4.3375,76.52
+SEQ8_WIDE,42,WikiText-103,8,61821696,50000000,7632.1,77183.2,80.0,4.4547,86.03

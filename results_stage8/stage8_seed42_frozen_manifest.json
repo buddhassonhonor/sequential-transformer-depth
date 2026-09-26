@@ -1,0 +1,112 @@
+{
+  "results_stage8\\wt103_par24_3_seed42_100M.csv": {
+    "size_bytes": 6788,
+    "mtime": 1789462293.882279,
+    "sha256": "839a6ed2e18748a69eea2296857680af6d3b7899060fa331c9d9376ef430c05f"
+  },
+  "results_stage8\\wt103_par24_3_seed42_100M.jsonl": {
+    "size_bytes": 21470,
+    "mtime": 1789462292.3895261,
+    "sha256": "7c2b2275ee9ab4e18c6fb97ece9792c98662d0a26e8341ca0a60e0d78cd4fa89"
+  },
+  "results_stage8\\wt103_par24_3_seed42_100M_milestones.json": {
+    "size_bytes": 2903,
+    "mtime": 1789462293.8828046,
+    "sha256": "43c5cdd9bce79c468f0ad0649df140967eec76713f2914b9903815743f010fff"
+  },
+  "results_stage8\\wt103_seq24_seed42_100M.csv": {
+    "size_bytes": 6776,
+    "mtime": 1789460615.6009617,
+    "sha256": "4aef2beff7fdd846e41fa288deb4f1374b1fb08cb0a0a791f199f47ca32ad8b7"
+  },
+  "results_stage8\\wt103_seq24_seed42_100M.jsonl": {
+    "size_bytes": 21458,
+    "mtime": 1789460614.1851346,
+    "sha256": "f190455e3f55ee57c1e7d096b332e1650a206aba67b4f3960ae9d8aa5bf6bc3c"
+  },
+  "results_stage8\\wt103_seq24_seed42_100M_milestones.json": {
+    "size_bytes": 2899,
+    "mtime": 1789460615.6019638,
+    "sha256": "e621dc7629d3a0cf0045772198d42627c8a87a99a8ea31082d3b9d103125f075"
+  },
+  "results_stage8\\wt103_sp24_s2k12_seed42_100M.csv": {
+    "size_bytes": 6792,
+    "mtime": 1789465647.9501457,
+    "sha256": "6d3899f7e4cfb0b1a7f2ca1efe2033feb77b34f1a57858471b515713049d29de"
+  },
+  "results_stage8\\wt103_sp24_s2k12_seed42_100M.jsonl": {
+    "size_bytes": 21474,
+    "mtime": 1789465646.5586824,
+    "sha256": "b447625824bb7dd2af75787fe18950549f0dbd0ad97a9680652f363b9361e43d"
+  },
+  "results_stage8\\wt103_sp24_s2k12_seed42_100M_milestones.json": {
+    "size_bytes": 2906,
+    "mtime": 1789465647.9506755,
+    "sha256": "2b4a4b1577194177f519e2275306d975e1cd8911ef30f98cec7f27f0a073aecf"
+  },
+  "results_stage8\\wt103_sp24_s4k6_seed42_100M.csv": {
+    "size_bytes": 6778,
+    "mtime": 1789463970.1119654,
+    "sha256": "08274c469f65339c7739ef600782ec4553303fc1802e87b4e465181fc0ac3565"
+  },
+  "results_stage8\\wt103_sp24_s4k6_seed42_100M.jsonl": {
+    "size_bytes": 21460,
+    "mtime": 1789463968.7429054,
+    "sha256": "e49d359a2817508e9b8a41ae53082d1d79a5ccac460c58311bbeacdf5e618ecd"
+  },
+  "results_stage8\\wt103_sp24_s4k6_seed42_100M_milestones.json": {
+    "size_bytes": 2908,
+    "mtime": 1789463970.1124942,
+    "sha256": "922a5a58c7702542fc2dba164dc8ab0a7cf289e65a2bea12a06bd728937b4da8"
+  },
+  "results_stage8\\stage8_100M_endpoint_summary.csv": {
+    "size_bytes": 369,
+    "mtime": 1789465669.9186854,
+    "sha256": "139cdd7d1557788fec36096811ffcf6488664b07a621327857b3145cd9a5ed16"
+  },
+  "results_stage8\\stage8_100M_learning_curves.png": {
+    "size_bytes": 284740,
+    "mtime": 1789465671.1401553,
+    "sha256": "ba01f441a3c1433e3e52867ad0143736044398907fe598bbbc9ac996a0d4e2e1"
+  },
+  "checkpoints_stage8\\wt103_par24_3_seed42_100M.pt": {
+    "size_bytes": 743298091,
+    "mtime": 1789462293.875271,
+    "sha256": "074ee0093d7906cbe4871e661e148e33624010e07ab6edc0813c8a58b9cb78cb"
+  },
+  "checkpoints_stage8\\wt103_par24_3_seed42_100M_best.pt": {
+    "size_bytes": 743302041,
+    "mtime": 1789462293.1750474,
+    "sha256": "c4fc4644a0c0c2fb2d68d38704f2710cdd36a90d55b6904bf0b1386e2db5c450"
+  },
+  "checkpoints_stage8\\wt103_seq24_seed42_100M.pt": {
+    "size_bytes": 743291199,
+    "mtime": 1789460615.5880275,
+    "sha256": "893fad11914bd8de6ab3e99fd1c33405085d02ca8de73505004a421bd4cf3a7c"
+  },
+  "checkpoints_stage8\\wt103_seq24_seed42_100M_best.pt": {
+    "size_bytes": 743295149,
+    "mtime": 1789460614.9154155,
+    "sha256": "1699636f59093e3b86b01ab6932b01a78f58372461779e5e6e810b04991a2066"
+  },
+  "checkpoints_stage8\\wt103_sp24_s2k12_seed42_100M.pt": {
+    "size_bytes": 743300141,
+    "mtime": 1789465647.944507,
+    "sha256": "179ac244bf340033df4e48da7d84efe8c421e1364b777dea6e807e8e0872b20d"
+  },
+  "checkpoints_stage8\\wt103_sp24_s2k12_seed42_100M_best.pt": {
+    "size_bytes": 743304091,
+    "mtime": 1789465647.2799084,
+    "sha256": "40122b1efa51b86bc27f7451a0f6866951ec077408ed0f9fff0c07731977c020"
+  },
+  "checkpoints_stage8\\wt103_sp24_s4k6_seed42_100M.pt": {
+    "size_bytes": 743299415,
+    "mtime": 1789463970.1060948,
+    "sha256": "334e4ebe91276e09e1d07c2bdb5376fab2bee11f9126eadbff436a0edb29d513"
+  },
+  "checkpoints_stage8\\wt103_sp24_s4k6_seed42_100M_best.pt": {
+    "size_bytes": 743303365,
+    "mtime": 1789463969.4535275,
+    "sha256": "5aa7468383bd82542e5a94ce755df848b7fed701682af3132c18ac7c4695000c"
+  }
+}

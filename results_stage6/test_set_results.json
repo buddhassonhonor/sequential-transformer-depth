@@ -1,0 +1,18 @@
+{
+  "SEQ24": {
+    "test_loss": 4.3552,
+    "test_ppl": 77.88
+  },
+  "PAR24_2": {
+    "test_loss": 4.3316,
+    "test_ppl": 76.06
+  },
+  "PAR24_3": {
+    "test_loss": 4.3244,
+    "test_ppl": 75.52
+  },
+  "SEQ8_WIDE": {
+    "test_loss": 4.4471,
+    "test_ppl": 85.38
+  }
+}

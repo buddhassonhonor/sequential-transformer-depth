@@ -1,0 +1,60 @@
+{
+  "dataset": "WikiText-103",
+  "schedule": "50M tokens cosine",
+  "models": [
+    {
+      "model": "SEQ24",
+      "seed": 42,
+      "dataset": "WikiText-103",
+      "sequential_depth": 24,
+      "non_emb_params": 61821696,
+      "tokens_train": 50000000,
+      "peak_vram_mb": 8264.7,
+      "avg_tok_s": 68161.2,
+      "max_gpu_temp_c": 80.0,
+      "final_val_loss": 4.3685,
+      "final_val_ppl": 78.93
+    },
+    {
+      "model": "PAR24_2",
+      "seed": 42,
+      "dataset": "WikiText-103",
+      "sequential_depth": 12,
+      "non_emb_params": 61821696,
+      "tokens_train": 50000000,
+      "peak_vram_mb": 8128.5,
+      "avg_tok_s": 66380.9,
+      "max_gpu_temp_c": 80.0,
+      "final_val_loss": 4.3436,
+      "final_val_ppl": 76.98
+    },
+    {
+      "model": "PAR24_3",
+      "seed": 42,
+      "dataset": "WikiText-103",
+      "sequential_depth": 8,
+      "non_emb_params": 61821696,
+      "tokens_train": 50000000,
+      "peak_vram_mb": 8075.6,
+      "avg_tok_s": 66526.0,
+      "max_gpu_temp_c": 80.0,
+      "final_val_loss": 4.3375,
+      "final_val_ppl": 76.52
+    },
+    {
+      "model": "SEQ8_WIDE",
+      "seed": 42,
+      "dataset": "WikiText-103",
+      "sequential_depth": 8,
+      "non_emb_params": 61821696,
+      "tokens_train": 50000000,
+      "peak_vram_mb": 7632.1,
+      "avg_tok_s": 77183.2,
+      "max_gpu_temp_c": 80.0,
+      "final_val_loss": 4.4547,
+      "final_val_ppl": 86.03
+    }
+  ],
+  "pen2x_50": -2.4637964530337144,
+  "pen3x_50": -3.0523866638055694
+}

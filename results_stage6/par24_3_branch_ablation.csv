@@ -1,0 +1,7 @@
+ablation_mode,val_loss,val_perplexity
+full,4.3375,76.52
+branch1,6.4941,661.26
+branch2,6.0343,417.5
+branch3,5.9828,396.56
+random_single,6.0696,432.52
+random_two,4.6921,109.08

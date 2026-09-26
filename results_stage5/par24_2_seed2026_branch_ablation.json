@@ -1,0 +1,45 @@
+{
+  "checkpoint": "D:\\NATURE-SCIENCE\\decoder-residual\\checkpoints_stage5\\par24_2_seed2026_50M.pt",
+  "checkpoint_step": 6104,
+  "checkpoint_tokens": 50003968,
+  "model": "par24_2",
+  "validation_protocol": {
+    "numpy_seed": 9999,
+    "batches": 40,
+    "batch_size": 32,
+    "precision": "BF16 autocast",
+    "dataset": "D:\\data\\tinystories_10m"
+  },
+  "outcomes": {
+    "full": {
+      "loss": 1.9609895139932632,
+      "ppl": 7.106355425387278,
+      "batches": 40,
+      "ppl_delta_from_full": 0.0
+    },
+    "branch1": {
+      "loss": 2.593898516893387,
+      "ppl": 13.381839370565476,
+      "batches": 40,
+      "ppl_delta_from_full": 6.275483945178198
+    },
+    "branch2": {
+      "loss": 2.5108375012874604,
+      "ppl": 12.315239771873859,
+      "batches": 40,
+      "ppl_delta_from_full": 5.208884346486581
+    },
+    "random_single": {
+      "loss": 2.536719226837158,
+      "ppl": 12.638140010680287,
+      "batches": 40,
+      "ppl_delta_from_full": 5.531784585293009
+    }
+  },
+  "peak_vram_mb": 4252.8,
+  "host_ram_used_gb": 23.27,
+  "gpu_after": {
+    "temperature_c": 76.0,
+    "memory_used_mb": 4686.0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "model": "sp24_s1k24",
+  "seed": 2026,
+  "dataset": "WikiText-103",
+  "non_emb_params": 61821696,
+  "best_val_loss": 4.575919675827026,
+  "best_val_ppl": 97.11731452498705,
+  "milestones": [
+    {
+      "tokens_M": 5.0,
+      "step": 611,
+      "val_loss": 5.774306750297546,
+      "val_ppl": 321.92118557760193,
+      "tokens_per_second": 60443.8,
+      "peak_vram_mb": 9984.0,
+      "gpu_temp_c": 79.0,
+      "wall_clock_seconds": 82.8
+    },
+    {
+      "tokens_M": 10.0,
+      "step": 1221,
+      "val_loss": 5.354573011398315,
+      "val_ppl": 211.5736175400686,
+      "tokens_per_second": 60250.8,
+      "peak_vram_mb": 9984.0,
+      "gpu_temp_c": 78.0,
+      "wall_clock_seconds": 166.0
+    },
+    {
+      "tokens_M": 20.0,
+      "step": 2442,
+      "val_loss": 4.950733315944672,
+      "val_ppl": 141.27852774136818,
+      "tokens_per_second": 60616.3,
+      "peak_vram_mb": 9984.0,
+      "gpu_temp_c": 79.0,
+      "wall_clock_seconds": 330.0
+    },
+    {
+      "tokens_M": 30.0,
+      "step": 3663,
+      "val_loss": 4.737607455253601,
+      "val_ppl": 114.16073999722421,
+      "tokens_per_second": 60764.1,
+      "peak_vram_mb": 9984.0,
+      "gpu_temp_c": 79.0,
+      "wall_clock_seconds": 493.8
+    },
+    {
+      "tokens_M": 40.0,
+      "step": 4883,
+      "val_loss": 4.627803671360016,
+      "val_ppl": 102.28915661128751,
+      "tokens_per_second": 60798.2,
+      "peak_vram_mb": 9984.0,
+      "gpu_temp_c": 79.0,
+      "wall_clock_seconds": 657.9
+    },
+    {
+      "tokens_M": 50.0,
+      "step": 6104,
+      "val_loss": 4.575919675827026,
+      "val_ppl": 97.11731452498705,
+      "tokens_per_second": 60840.9,
+      "peak_vram_mb": 9984.0,
+      "gpu_temp_c": 79.0,
+      "wall_clock_seconds": 821.9
+    }
+  ]
+}

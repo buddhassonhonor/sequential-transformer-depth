@@ -1,0 +1,98 @@
+{
+  "wt103_seq24_seed42": {
+    "test_loss": 4.3552,
+    "test_ppl": 77.8811
+  },
+  "wt103_seq24_seed123": {
+    "test_loss": 4.3681,
+    "test_ppl": 78.8971
+  },
+  "wt103_seq24_seed2026": {
+    "test_loss": 4.3515,
+    "test_ppl": 77.5925
+  },
+  "wt103_par24_2_seed42": {
+    "test_loss": 4.3316,
+    "test_ppl": 76.0645
+  },
+  "wt103_par24_2_seed123": {
+    "test_loss": 4.3391,
+    "test_ppl": 76.6382
+  },
+  "wt103_par24_2_seed2026": {
+    "test_loss": 4.3254,
+    "test_ppl": 75.5971
+  },
+  "wt103_par24_3_seed42": {
+    "test_loss": 4.3244,
+    "test_ppl": 75.5229
+  },
+  "wt103_par24_3_seed123": {
+    "test_loss": 4.3276,
+    "test_ppl": 75.7627
+  },
+  "wt103_par24_3_seed2026": {
+    "test_loss": 4.3283,
+    "test_ppl": 75.8174
+  },
+  "wt103_sp24_s6k4_seed42": {
+    "test_loss": 4.3385,
+    "test_ppl": 76.5891
+  },
+  "wt103_sp24_s6k4_seed123": {
+    "test_loss": 4.3395,
+    "test_ppl": 76.6667
+  },
+  "wt103_sp24_s6k4_seed2026": {
+    "test_loss": 4.3382,
+    "test_ppl": 76.5707
+  },
+  "wt103_sp24_s4k6_seed42": {
+    "test_loss": 4.3634,
+    "test_ppl": 78.5275
+  },
+  "wt103_sp24_s4k6_seed123": {
+    "test_loss": 4.356,
+    "test_ppl": 77.9431
+  },
+  "wt103_sp24_s4k6_seed2026": {
+    "test_loss": 4.3614,
+    "test_ppl": 78.368
+  },
+  "wt103_sp24_s3k8_seed42": {
+    "test_loss": 4.3773,
+    "test_ppl": 79.6213
+  },
+  "wt103_sp24_s3k8_seed123": {
+    "test_loss": 4.3788,
+    "test_ppl": 79.739
+  },
+  "wt103_sp24_s3k8_seed2026": {
+    "test_loss": 4.3748,
+    "test_ppl": 79.4236
+  },
+  "wt103_sp24_s2k12_seed42": {
+    "test_loss": 4.508,
+    "test_ppl": 90.7438
+  },
+  "wt103_sp24_s2k12_seed123": {
+    "test_loss": 4.4987,
+    "test_ppl": 89.9034
+  },
+  "wt103_sp24_s2k12_seed2026": {
+    "test_loss": 4.4893,
+    "test_ppl": 89.0586
+  },
+  "wt103_sp24_s1k24_seed42": {
+    "test_loss": 4.5619,
+    "test_ppl": 95.7679
+  },
+  "wt103_sp24_s1k24_seed123": {
+    "test_loss": 4.5653,
+    "test_ppl": 96.0904
+  },
+  "wt103_sp24_s1k24_seed2026": {
+    "test_loss": 4.5581,
+    "test_ppl": 95.4053
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "n_paired_seeds": 3,
+  "mean_seq24_ppl": 7.140945866476102,
+  "mean_par24_2_ppl": 7.149764167899931,
+  "mean_absolute_gap": 0.00881830142382789,
+  "sd_absolute_gap": 0.03019994525472687,
+  "mean_relative_penalty_pct": 0.1230653387814085,
+  "sd_relative_penalty_pct": 0.42275286163322134,
+  "bootstrap95_mean_penalty_pct": [
+    -0.363521735624911,
+    0.4001929754199265
+  ],
+  "decision_rule": "strong if mean <= 2% and upper bootstrap bound <= 3%",
+  "environment": {
+    "python": "3.11.10",
+    "torch": "2.9.0.dev20250630+cu128",
+    "cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop GPU"
+  },
+  "decision": "STRONG_GO"
+}

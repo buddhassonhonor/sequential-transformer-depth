@@ -4,6 +4,9 @@
 
 Code and source data for **How Much Transformer Depth Needs to Be Sequential?**
 
+Author: Zhigao Huang, Quanzhou Normal University, Quanzhou, China  
+Correspondence: <zghuang@qztc.edu.cn>
+
 This repository accompanies experiments that separate the number of Transformer
 blocks from the number of block transformations that must be evaluated
 sequentially. The principal experiments use 24 decoder blocks arranged as

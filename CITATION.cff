@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or its accompanying data, please cite the archived artifact."
+title: "How Much Transformer Depth Needs to Be Sequential? — Code and Source Data"
+type: software
+authors:
+  - family-names: Huang
+    given-names: Zhigao
+    affiliation: Quanzhou Normal University
+    email: zghuang@qztc.edu.cn
+repository-code: "https://github.com/buddhassonhonor/sequential-transformer-depth"
+doi: "10.6084/m9.figshare.34003950.v1"
+version: 1.0.2
+date-released: 2026-09-26
+license: MIT
